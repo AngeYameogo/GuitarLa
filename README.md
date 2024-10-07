@@ -1,8 +1,9 @@
-# React + Vite
+# GuitarLa-web
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+¡Pagina web creada  desde cero ! Usando las últimas tecnologías del ecosistema JavaScript, incluyendo ReactJS, la creación de una aplicación web moderna de venta de guitaras donde se realiza la web + el carrito de compra..
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🌐 react.js 
+🎨 Componentes 
+📱 Web responsive
+⚙️ localStorage
+🔗 JavaScript
