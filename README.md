@@ -7,3 +7,5 @@
 📱 Web responsive
 ⚙️ localStorage
 🔗 JavaScript
+
+![guitar1](https://github.com/user-attachments/assets/267fb78e-f751-45ce-9b40-089a42b8573f)
